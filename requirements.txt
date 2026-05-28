@@ -1,0 +1,6 @@
+streamlit
+gymnasium
+pandas
+numpy
+matplotlib
+pyyaml
